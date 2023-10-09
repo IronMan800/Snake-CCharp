@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Gb30COSDN3Mw+OpjnvNXBp8SJXY9N9NcOXZFVgNOqf+VA1MClHirbnvlLPCWLg0CVEyA0Pzdccp5kGZoAIg3Dw==",
+  "dgSpecHash": "OXGPhMuFgjVnyyPP1n4oV/1PJ/J4d/LvmvsNxAGAUcED+IiSRh8n5UfmSeQueCSFRUyh3N93yn8SPEEb0ys4Jg==",
   "success": true,
-  "projectFilePath": "E:\\File\\C# Изучение\\Snake\\Snake\\Snake.csproj",
+  "projectFilePath": "E:\\GitHub\\Snake-CCharp\\Snake\\Snake.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

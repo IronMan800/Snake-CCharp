@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\File\\C# Изучение\\Snake\\Snake\\Snake.csproj": {}
+    "E:\\GitHub\\Snake-CCharp\\Snake\\Snake.csproj": {}
   },
   "projects": {
-    "E:\\File\\C# Изучение\\Snake\\Snake\\Snake.csproj": {
+    "E:\\GitHub\\Snake-CCharp\\Snake\\Snake.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\File\\C# Изучение\\Snake\\Snake\\Snake.csproj",
+        "projectUniqueName": "E:\\GitHub\\Snake-CCharp\\Snake\\Snake.csproj",
         "projectName": "Snake",
-        "projectPath": "E:\\File\\C# Изучение\\Snake\\Snake\\Snake.csproj",
+        "projectPath": "E:\\GitHub\\Snake-CCharp\\Snake\\Snake.csproj",
         "packagesPath": "C:\\Users\\Дмитрий\\.nuget\\packages\\",
-        "outputPath": "E:\\File\\C# Изучение\\Snake\\Snake\\obj\\",
+        "outputPath": "E:\\GitHub\\Snake-CCharp\\Snake\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

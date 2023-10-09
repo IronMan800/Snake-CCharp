@@ -55,7 +55,7 @@ namespace Snake
                     {
                         if (food.pos.X == pos.X && food.pos.Y == pos.Y)
                         {
-                            EventAteFood(food);
+                            EventAteFood(food, settings);
                             break;
                         }
                     }
@@ -71,7 +71,7 @@ namespace Snake
                     {
                         if (food.pos.X == pos.X && food.pos.Y == pos.Y)
                         {
-                            EventAteFood(food);
+                            EventAteFood(food, settings);
                             break;
                         }
                     }
@@ -87,7 +87,7 @@ namespace Snake
                     {
                         if (food.pos.X == pos.X && food.pos.Y == pos.Y)
                         {
-                            EventAteFood(food);
+                            EventAteFood(food, settings);
                             break;
                         }       
                     }
@@ -103,7 +103,7 @@ namespace Snake
                     {
                         if (food.pos.X == pos.X && food.pos.Y == pos.Y)
                         {
-                            EventAteFood(food);
+                            EventAteFood(food, settings);
                             break;
                         }
                     }

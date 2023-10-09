@@ -6,7 +6,7 @@ namespace Snake
 {
     //закончить
     public delegate void GameOver(string ReasonForLosing);
-    public delegate void AddAPoint(object food);
+    public delegate void AddAPoint(object food, object settings);
     struct Position
     {
         public int X { get; set; }
@@ -102,11 +102,13 @@ namespace Snake
             Thread.Sleep(4000);
         }
 
-        public void AddAPoint(object objectFood)
+        public void AddAPoint(object objectFood, object settings)
         {
             Food food = (Food)objectFood;
             foodList.Remove(food);
             Score += 1;
+            
+            snake.AddBody((Settings)settings);
         }
 
         public void AddFood()

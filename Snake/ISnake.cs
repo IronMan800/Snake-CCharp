@@ -12,6 +12,6 @@ namespace Snake
 
         public void Move(List<Food> listFood);
         public void RotateMove(Vector vector);
-        public void AddBody();
+        public void AddBody(Settings settings);
     }
 }

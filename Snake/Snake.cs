@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.Linq;
 
 namespace Snake
 {
@@ -73,8 +74,19 @@ namespace Snake
             }
         }
 
-        public void AddBody()
+        public void AddBody(Settings settings)
         {
+            SnakeBody lastBody = body.Last();
+            if (lastBody.VectorMove == Vector.Up)
+                body.Add(new SnakeBody(false, new Position(lastBody.pos.X - 1, lastBody.pos.Y), settings));
+            if (lastBody.VectorMove == Vector.Down)
+                body.Add(new SnakeBody(false, new Position(lastBody.pos.X + 1, lastBody.pos.Y), settings));
+            if (lastBody.VectorMove == Vector.Left)
+                body.Add(new SnakeBody(false, new Position(lastBody.pos.X, lastBody.pos.Y - 1), settings));
+            if (lastBody.VectorMove == Vector.Right)
+                body.Add(new SnakeBody(false, new Position(lastBody.pos.X, lastBody.pos.Y + 1), settings));
+
+
 
         }
     }

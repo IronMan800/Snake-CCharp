@@ -13,3 +13,18 @@ E:\File\C# Изучение\Snake\Snake\obj\Debug\net7.0\refint\Snake.dll
 E:\File\C# Изучение\Snake\Snake\obj\Debug\net7.0\Snake.pdb
 E:\File\C# Изучение\Snake\Snake\obj\Debug\net7.0\Snake.genruntimeconfig.cache
 E:\File\C# Изучение\Snake\Snake\obj\Debug\net7.0\ref\Snake.dll
+E:\GitHub\Snake-CCharp\Snake\obj\Debug\net7.0\Snake.csproj.AssemblyReference.cache
+E:\GitHub\Snake-CCharp\Snake\obj\Debug\net7.0\Snake.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Snake-CCharp\Snake\obj\Debug\net7.0\Snake.AssemblyInfoInputs.cache
+E:\GitHub\Snake-CCharp\Snake\obj\Debug\net7.0\Snake.AssemblyInfo.cs
+E:\GitHub\Snake-CCharp\Snake\obj\Debug\net7.0\Snake.csproj.CoreCompileInputs.cache
+E:\GitHub\Snake-CCharp\Snake\obj\Debug\net7.0\Snake.dll
+E:\GitHub\Snake-CCharp\Snake\obj\Debug\net7.0\refint\Snake.dll
+E:\GitHub\Snake-CCharp\Snake\obj\Debug\net7.0\Snake.pdb
+E:\GitHub\Snake-CCharp\Snake\bin\Debug\net7.0\Snake.exe
+E:\GitHub\Snake-CCharp\Snake\bin\Debug\net7.0\Snake.deps.json
+E:\GitHub\Snake-CCharp\Snake\bin\Debug\net7.0\Snake.runtimeconfig.json
+E:\GitHub\Snake-CCharp\Snake\bin\Debug\net7.0\Snake.dll
+E:\GitHub\Snake-CCharp\Snake\bin\Debug\net7.0\Snake.pdb
+E:\GitHub\Snake-CCharp\Snake\obj\Debug\net7.0\Snake.genruntimeconfig.cache
+E:\GitHub\Snake-CCharp\Snake\obj\Debug\net7.0\ref\Snake.dll
